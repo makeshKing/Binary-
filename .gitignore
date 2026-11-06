@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.next-dev/
+.payment-proofs/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example

@@ -1,0 +1,6 @@
+{
+  "name": "PulseOption Demo Trading",
+  "description": "Web trading platform with real-time candlestick charting, instant execution, and full account wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

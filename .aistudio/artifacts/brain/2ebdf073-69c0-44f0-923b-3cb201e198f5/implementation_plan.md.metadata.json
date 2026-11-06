@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to display all active trade pills, settlement popups, and trade panels in NPR (Rs) when NPR is selected, and support a Rs 100 minimum trade investment in NPR mode with live payout calculation.",
+  "updatedAt": "2026-11-06T08:07:55.999246588Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
